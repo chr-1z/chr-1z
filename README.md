@@ -1,6 +1,6 @@
 #### Hi! I'm Christian </br>
-Currently I work with software development.</br>
-I love how Technology can change the world. </br>
+I've been working with Web Development.
+I love how Technology can change the world.
 In my free time, I like to play video-games, watch series and learn about new tecnologys.
 
 
