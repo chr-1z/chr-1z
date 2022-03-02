@@ -1,7 +1,7 @@
 #### Hi! I'm Christian </br>
 I've been working with Web Development. </br>
 I love how Technology can change the world. </br>
-In my free time, I like to play video-games, watch series and learn about new tecnologys. </br>
+In my free time, I like to play video-games, watch series and learn about new technologys. </br>
 
 
 <div>
